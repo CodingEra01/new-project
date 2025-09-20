@@ -1,2 +1,5 @@
-# new-project
-2nd repo
+# project 
+Learning git 
+<br> 
+Author:- CodingEra01
+
